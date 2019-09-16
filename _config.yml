@@ -4,7 +4,7 @@ subtitle: AMR Network
 year: 2019
 email: harvardAMR@gmail.com
 description: A Harvard University student group
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 street_address: 665 Huntington Ave
 city: Boston

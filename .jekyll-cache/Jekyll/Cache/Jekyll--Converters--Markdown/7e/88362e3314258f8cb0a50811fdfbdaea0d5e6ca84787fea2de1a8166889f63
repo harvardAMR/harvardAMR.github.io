@@ -1,13 +1,4 @@
----
-title: Events and Projects
-layout: landing
-description: "Accomplishments and future plans"
-image: assets/images/bact7.png
-image2: assets/images/bact8.png
-nav-menu: true
----
-
-<!-- Main -->
+I"†<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -32,7 +23,9 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 	<span class="image left">
-			<img src="assets/images/bact6.jpg" alt=""  data-position="top center" />
+		<a href="generic.html" class="image">
+			<img src="assets/images/bact6.jpg" alt="" data-position="top center" />
+		</a>
 	</span>
 		<div class="content">
 			<div class="inner">
@@ -49,7 +42,9 @@ nav-menu: true
 	</section>
 	<section>
 		<span class="image right">
+			<a href="generic.html" class="image">
 				<img src="assets/images/vanco.jpg" alt="" data-position="25% 25%" />
+			</a>
 		</span>
 		<div class="content">
 			<div class="inner">
@@ -66,3 +61,4 @@ nav-menu: true
 </section>
 
 </div>
+:ET
