@@ -1,12 +1,4 @@
----
-title: Events and Projects
-layout: landing
-description: "Accomplishments and future plans"
-image: assets/images/bact7.png
-image2: assets/images/bact8.png
-nav-menu: true
----
-
+I"1
 <!-- Main -->
 <div id="main">
 
@@ -41,8 +33,8 @@ nav-menu: true
 					<li><a href="https://www.twitter.com/harvardAMR" target="_blank" class="button">See our Twitter for a recap</a></li>
 		</ul>
 		<p>
-		  <br>
-		  <br>
+		  <br />
+		  <br />
 		</p>
 </div>
 
@@ -60,9 +52,10 @@ nav-menu: true
 				<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/28502769" target="_blank" class="button">Read the publication</a></li>
 			</ul>
 		<p>
-		  <br>
-		  <br>
+		  <br />
+		  <br />
 		</p>
 </div>
 
 </div>
+:ET

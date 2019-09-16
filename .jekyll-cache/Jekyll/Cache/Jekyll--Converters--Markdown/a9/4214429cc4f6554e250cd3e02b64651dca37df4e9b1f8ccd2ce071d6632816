@@ -1,0 +1,78 @@
+I"H<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Future plans</h2>
+		</header>
+		<p>Our work broadly falls under two areas: community engagement and political advocacy. As part of our community engagement efforts, we'll continue to
+		host events for the Harvard and broader Boston AMR community with the goals of fostering increased collaboration across fields and providing trainees with more 
+		opportunities to showcase their work. We plan to further expand our community engagement to include middle and high school students by running introductory workshops
+		on infectious diseases and antimicrobial resistance.
+		
+		Recognizing the importance of engaging our elected representatives on this critical issue, we're also planning to 1) write op-eds and 2) set up meetings with health
+		staffers in congressional offices to advocate for increased government funding on AMR public health initiatives. To adequately address a problem of this scope will
+		require a concerted and coordinated effort between policymakers, clinicians, scientists, and more, and we believe HAMR can play an important role in jumpstarting these
+		discussions.</p>
+	</div>
+</section>
+
+<div class="inner">
+	<h3>November 1st, 2018: Fall AMR Symposium</h3>
+		<p>
+			<span class="image left"><img src="assets/images/bact6.jpg" alt="" /></span>
+			HAMR was awarded a Harvard Integrated Life Sciences grant to host an interdisciplinary symposium 
+			on antimicrobial resistance. We heard fantastic talks from trainees and faculty working on areas 
+			ranging from drug development to population-wide epidemiology. Thanks to all the speakers and attendees 
+			for a successful event!
+		</p>
+		<ul class="actions">
+					<li><a href="https://www.twitter.com/harvardAMR" target="_blank" class="button">See our Twitter for a recap</a></li>
+		</ul>
+</div>
+
+
+<div class="inner">
+<h3>November 1st, 2018: Fall AMR Symposium</h3>
+<p><span class="image right"><img src="assets/images/pic09.jpg" alt="" /></span>HAMR was awarded a Harvard Integrated Life Sciences grant to host an interdisciplinary symposium on antimicrobial resistance. We heard fantastic talks from trainees and faculty working on areas ranging from drug development to population-wide epidemiology. Thanks to all the speakers and attendees for a successful event!</p>
+</div>
+
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		
+			<div class="inner">
+								
+					<img src="assets/images/bact6.jpg" alt="" data-position="top center" />
+				<header class="major">
+					<h3>November 1st, 2018: Fall AMR Symposium</h3>
+				</header>
+				
+				<p>HAMR was awarded a Harvard Integrated Life Sciences grant to host an interdisciplinary symposium on antimicrobial resistance. We heard fantastic talks from trainees and faculty working on areas ranging from drug development to population-wide epidemiology. Thanks to all the speakers and attendees for a successful event!</p>
+				<ul class="actions">
+					<li><a href="https://www.twitter.com/harvardAMR" target="_blank" class="button">See our Twitter for a recap</a></li>
+				</ul>
+			</div>
+	</section>
+	
+	<section>
+		<span class="image right">
+				<img src="assets/images/vanco.jpg" alt="" data-position="25% 25%" />
+		</span>
+			<div class="inner">
+				<header class="major">
+					<h2>February 7th, 2019: Inaugural Event</h2>
+				</header>
+					<p>HAMR hosted Dr. Michael Gilmore, Principal Investigator of the Harvard-wide Program on Antibiotic Resistance, for our inaugural event. Dr. Gilmore spoke about the fascinating evolutionary history of drug-resistant Enterococci, which can cause devastating opportunistic hospital-associated infections.</p>
+				<ul class="actions">
+					<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/28502769" target="_blank" class="button">Read the publication</a></li>
+				</ul>
+			</div>
+	</section>
+</section>
+
+</div>
+:ET
