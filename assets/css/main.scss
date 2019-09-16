@@ -1,5 +1,7 @@
 ---
+show_tile: false
 ---
+
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
@@ -78,3 +80,46 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+
+
+
+#banner>.inner .content p {
+    font-size: 1.3em;
+    font-weight: 600;
+    letter-spacing: .25em;
+    text-transform: uppercase;
+}
+
+header.major>p {
+    font-size: 1.0em;
+    font-weight: 600;
+    letter-spacing: .25em;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.tiles article:before {
+	opactity: 0.9;
+}
+
+.tiles article:nth-child(6n-3)::before {
+    background-color: #91505e;
+}
+
+.tiles article:nth-child(6n-4)::before {
+    background-color: #716c9e;
+}
+
+.tiles article:nth-child(6n-5)::before {
+    background-color: #64a2c6;
+}
+
+.tiles article:after {
+	opacity: 0.1;
+}
+
+#banner.style2:after {
+    background-color: #91505e;
+	opacity: 0.9;
+}
