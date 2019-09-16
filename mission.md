@@ -3,7 +3,7 @@ layout: page
 title: Mission Statement
 description: "Why we work on AMR"
 nav-menu: true
-image: assets/images/bact5.png
+image: assets/images/bact5tmp.png
 ---
 
 <!-- Main -->
