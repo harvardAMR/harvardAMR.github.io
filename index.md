@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Harvard Antimicrobial Resistance (HAMR) GSAS Network'
+landing-title: 'Harvard Antimicrobial Resistance (HAMR)'
 description: null
 image: null
 author: null

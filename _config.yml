@@ -1,9 +1,9 @@
 # site settings
-title: Harvard 
-subtitle: AMR Network
+title:  HAMR
+subtitle: '@ GSAS'
 year: 2019
 email: harvardAMR@gmail.com
-description: A Harvard University student group
+description: A Harvard University GSAS student group
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 street_address: 665 Huntington Ave
