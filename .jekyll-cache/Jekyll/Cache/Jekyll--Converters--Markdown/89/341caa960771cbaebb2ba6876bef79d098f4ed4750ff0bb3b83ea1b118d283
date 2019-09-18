@@ -1,13 +1,4 @@
----
-title: Events and Projects
-layout: landing
-description: "Past events and future plans"
-image: assets/images/bact7.png
-image2: assets/images/bact8.png
-nav-menu: true
----
-
-<!-- Main -->
+I".<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -17,7 +8,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Future plans</h2>
 		</header>
-		<p>Our work broadly falls under two areas: community engagement and political advocacy. In the Fall 2019 semester, we are currently organizing additional talks, drafting an Op-Ed on AMR, and expanding our team to include new students and postdoctoral affiliates.</p>
+		<p>Our work broadly falls under two areas: community engagement and political advocacy. In the Fall 2019 semester, we are currently organizing additional talks, drafting an Op-Ed on AMR, and expanding our team as we apply for formal recognition as a student group from Harvard GSAS.</p>
 	</div>
 </section>
 
@@ -36,8 +27,8 @@ nav-menu: true
 					<li><a href="https://www.twitter.com/harvardAMR" target="_blank" class="button">See our Twitter for a recap</a></li>
 		</ul>
 		<p>
-		  <br>
-		  <br>
+		  <br />
+		  <br />
 		</p>
 </div>
 
@@ -55,9 +46,10 @@ nav-menu: true
 				<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/28502769" target="_blank" class="button">Read the publication</a></li>
 			</ul>
 		<p>
-		  <br>
-		  <br>
+		  <br />
+		  <br />
 		</p>
 </div>
 
 </div>
+:ET

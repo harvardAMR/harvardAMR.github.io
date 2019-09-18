@@ -1,11 +1,4 @@
----
-layout: page
-title: Mission Statement
-description: "Why we work on AMR"
-nav-menu: true
-image: assets/images/bact5tmp.png
----
-
+I"
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -38,8 +31,10 @@ discussions. Our work falls broadly under two areas: community engagement and po
 		<h3>Political advocacy</h3>
 		<p>Recognizing the importance of engaging our elected representatives on AMR, we are also planning to 1) write op-eds and 2) set up meetings with health
 		staffers in congressional offices to advocate for increased government funding on AMR public health initiatives. Despite growing recognition of the importance 
-		of an early response to increasingly concerning trends in the prevalence of resistance, funding for sustainable antibiotic development, rapid point-of-care diagnostics, and public health surveillance have remained below ideal levels.</p>
+		of an early response to AMR trends, funding for sustainable antibiotic development, rapid point-of-care diagnostics, and public health surveillance have lagged.</p>
 	</div>
 </div>
 
 <hr class="major" />
+</div></section></div>
+:ET

@@ -1,0 +1,39 @@
+I"Á<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Mission Statement</h1>
+		</header>
+
+<!-- Content -->
+<h2 id="content">Introduction</h2>
+<p>The development of effective antibiotic therapy has likely prevented tens of millions of 
+infection-related deaths, but the evolution and spread of multidrug-resistant pathogens 
+critically threatens the status quo. The population-wide projected impact of antimicrobial resistance has 
+been estimated to entail considerable increases in both the morbidity and mortality of infectious diseases resulting in 
+dramatic increases in healthcare spending. The Harvard Antimicrobial Resistance (HAMR) GSAS Network 
+was founded to bring together the broader Harvard community to address this pressing challenge on all fronts, from 
+understanding the basic science of resistance to studying economic interventions for incentivizing drug development. Our work falls broadly under two areas: community engagement and political advocacy.</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Community engagement</h3>
+		<p>As part of our community engagement efforts, we'll continue to
+		host events for the Harvard and broader Boston AMR community with the goals of fostering increased collaboration across fields and providing trainees with more 
+		opportunities to showcase their work. We plan to further expand our community engagement to include middle and high school students by running introductory workshops
+		on infectious diseases and antimicrobial resistance.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Political advocacy</h3>
+		<p>Recognizing the importance of engaging our elected representatives on this critical issue, we're also planning to 1) write op-eds and 2) set up meetings with health
+		staffers in congressional offices to advocate for increased government funding on AMR public health initiatives. To adequately address a problem of this scope will
+		require a concerted and coordinated effort between policymakers, clinicians, scientists, and more, and we believe HAMR can play an important role in jumpstarting these
+		discussions.</p>
+	</div>
+</div>
+
+<hr class="major" />
+</div></section></div>
+:ET
