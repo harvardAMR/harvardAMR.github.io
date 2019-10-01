@@ -20,7 +20,7 @@ image: assets/images/bact5tmp.png
 <h2 id="content">Introduction</h2>
 <p>The development of antibiotic therapy has prevented tens of millions of 
 infection-related deaths, but the evolution of multidrug-resistant pathogens threatens the status quo. 
-The projected impacts of antimicrobial resistance are dramatic increases in both the morbidity, mortality, and healthcare costs of infectious diseases. 
+The projected impacts of antimicrobial resistance (AMR) are dramatic increases in the morbidity, mortality, and healthcare costs of infectious diseases treatment. 
 Harvard Antimicrobial Resistance (HAMR) @ GSAS 
 was founded to bring together the broader Harvard community to address this pressing challenge on all fronts, from 
 understanding the basic science of resistance to studying economic interventions for incentivizing drug development. Our work falls broadly under two areas: community engagement and political advocacy.
