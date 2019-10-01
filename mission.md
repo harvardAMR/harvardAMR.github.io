@@ -18,14 +18,12 @@ image: assets/images/bact5tmp.png
 
 <!-- Content -->
 <h2 id="content">Introduction</h2>
-<p>The development of effective antibiotic therapy has likely prevented tens of millions of 
-infection-related deaths, but the evolution and spread of multidrug-resistant pathogens 
-critically threatens the status quo. The population-wide projected impact of antimicrobial resistance has 
-been estimated to entail considerable increases in both the morbidity and mortality of infectious diseases resulting in 
-dramatic increases in healthcare spending. Harvard Antimicrobial Resistance (HAMR) @ GSAS 
+<p>The development of antibiotic therapy has prevented tens of millions of 
+infection-related deaths, but the evolution of multidrug-resistant pathogens threatens the status quo. 
+The projected impacts of antimicrobial resistance are dramatic increases in both the morbidity, mortality, and healthcare costs of infectious diseases. 
+Harvard Antimicrobial Resistance (HAMR) @ GSAS 
 was founded to bring together the broader Harvard community to address this pressing challenge on all fronts, from 
-understanding the basic science of resistance to studying economic interventions for incentivizing drug development. To adequately address a problem of this scope will require a concerted and coordinated effort between policymakers, clinicians, scientists, and more, and we believe HAMR can play an important role in catalyzing these
-discussions. Our work falls broadly under two areas: community engagement and political advocacy.
+understanding the basic science of resistance to studying economic interventions for incentivizing drug development. Our work falls broadly under two areas: community engagement and political advocacy.
 </p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -38,7 +36,7 @@ discussions. Our work falls broadly under two areas: community engagement and po
 		<h3>Political advocacy</h3>
 		<p>Recognizing the importance of engaging our elected representatives on AMR, we are also planning to 1) write op-eds and 2) set up meetings with health
 		staffers in congressional offices to advocate for increased government funding on AMR public health initiatives. Despite growing recognition of the importance 
-		of an early response to increasingly concerning trends in the prevalence of resistance, funding for sustainable antibiotic development, rapid point-of-care diagnostics, and public health surveillance have remained below ideal levels.</p>
+		of an early response to concerning trends in the prevalence of AMR, funding for sustainable antibiotic development and public health surveillance have remained below ideal levels.</p>
 	</div>
 </div>
 
