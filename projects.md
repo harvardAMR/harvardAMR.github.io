@@ -31,8 +31,6 @@ nav-menu: true
 					<li><a href="https://forms.gle/qCQcU8vwpXEUUcgK6" target="_blank" class="button">RSVP Here</a></li>
 		</ul>
 		<p>
-		  <br>
-		  <br>
 		</p>
 </div>
 
