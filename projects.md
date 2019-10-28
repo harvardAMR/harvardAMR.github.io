@@ -15,7 +15,7 @@ nav-menu: true
 	<div class="inner">
 	
 		<header class="major">
-			<h2>Future plans</h2>
+			<h2>Overview</h2>
 		</header>
 		<p>Our work broadly falls under two areas: community engagement and political advocacy. In the Fall 2019 semester, we are currently organizing additional talks, drafting an Op-Ed on AMR, and expanding our team to include new students and postdoctoral affiliates.</p>
 	</div>
