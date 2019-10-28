@@ -21,6 +21,20 @@ nav-menu: true
 	</div>
 </section>
 
+<div class="inner">
+	<h3>November 4th 2019, 4-6PM: Career / Policy Chat with Kevin Outterson</h3>
+		<p>
+			<span class="image right"><img src="assets/images/carbx.jpg" alt="" /></span>
+			Please join Harvard AMR, IDC, and GPIB for a policy / career chat with Dr. Kevin Outterson, executive director of CARB-X, a non-profit antibacterial R&D partnership, and co-director of the health law program at BU. We will hear from Dr. Outterson on CARB-X's unique approach to address the pressing challenges of AMR, followed by a broader discussion on similarities and differences compared to climate change science / advocacy, the role of "low-tech" versus "high-tech" solutions, and better public engagement on AMR. Light refreshments will be provided.
+		</p>
+		<ul class="actions">
+					<li><a href="https://forms.gle/qCQcU8vwpXEUUcgK6" target="_blank" class="button">RSVP Here</a></li>
+		</ul>
+		<p>
+		  <br>
+		  <br>
+		</p>
+</div>
 
 
 <div class="inner">
