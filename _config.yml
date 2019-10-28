@@ -1,9 +1,9 @@
 # site settings
 title:  HAMR
-subtitle: '@ GSAS'
+subtitle: '@ IDC'
 year: 2019
 email: harvardAMR@gmail.com
-description: A Harvard University GSAS student group
+description: A subgroup of the Harvard Infectious Diseases Consortium (IDC)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://harvardamr.com" # the base hostname & protocol for your site
 street_address: 665 Huntington Ave

@@ -27,7 +27,7 @@ nav-menu: true
 	<h3>November 1st, 2018: Fall AMR Symposium</h3>
 		<p>
 			<span class="image left"><img src="assets/images/bact6.jpg" alt="" /></span>
-			HAMR @ GSAS was awarded a Harvard Integrated Life Sciences grant to host an interdisciplinary symposium 
+			HAMR was awarded a Harvard Integrated Life Sciences grant to host an interdisciplinary symposium 
 			on antimicrobial resistance. We heard fantastic talks from trainees and faculty working on areas 
 			ranging from drug development to population-wide epidemiology. Thanks to all the speakers and attendees 
 			for a successful event!
@@ -46,7 +46,7 @@ nav-menu: true
 	<h3>February 7th, 2018: Inaugural Event</h3>
 		<p>
 			<span class="image right"><img src="assets/images/vanco.jpg" alt="" /></span>
-			HAMR @ GSAS hosted Dr. Michael Gilmore, Principal Investigator of the Harvard-wide Program 
+			HAMR hosted Dr. Michael Gilmore, Principal Investigator of the Harvard-wide Program 
 			on Antibiotic Resistance, for our inaugural event. Dr. Gilmore spoke about the fascinating 
 			evolutionary history of drug-resistant Enterococci, which can cause devastating opportunistic 
 			hospital-associated infections.

@@ -15,7 +15,7 @@ nav-menu: true
 <div class="inner">
 
 	<p>
-	Welcome to our team page! HAMR @ GSAS is run by graduate students and postdoctoral affiliates and advised by a Harvard faculty committee. We are always looking to work with new trainees and professors. Please reach out via email or Twitter to learn about more ways to get involved.
+	Welcome to our team page! HAMR is run by graduate students and postdoctoral affiliates and advised by a Harvard faculty committee. We are always looking to work with new trainees and professors. Please reach out via email or Twitter to learn about more ways to get involved.
 	</p>
 </div>
 
